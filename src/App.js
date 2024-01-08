@@ -56,7 +56,7 @@ function App() {
       data: [{
         img: Dashboard,
         name: "Admin Dashboard",
-        link: "www.link.com",
+        link: "https://github.com/phyoengl",
         content: "Admin dashboard monitering the page user activity",
         icon: faGithub,
       }]
