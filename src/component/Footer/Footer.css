@@ -1,0 +1,8 @@
+.address a {
+    display: inline-block;
+}
+
+.address a svg {
+    height: 1.5em;
+    width: 1.5em;
+}

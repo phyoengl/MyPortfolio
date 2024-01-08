@@ -1,0 +1,18 @@
+nav a {
+    text-decoration: none;
+    font-weight: 400;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.Navlogo {
+    font-weight: 700;
+}
+
+.CustomNav {
+    margin-left: 10px;
+    padding-left: 10px;
+    
+}

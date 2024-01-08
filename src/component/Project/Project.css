@@ -1,0 +1,24 @@
+.card {
+    width: 18rem;
+}
+
+.project-header {
+    text-align: start;
+}
+
+.project-header h1 {
+    margin-bottom: 1.5rem;
+    font-weight: 900;
+}
+
+.project-header h6 {
+    font-weight: 800;
+}
+
+.card-body {
+    text-align: start;
+}
+
+.card-title {
+    font-weight: 700;
+}

@@ -1,0 +1,27 @@
+.learn-ul li {
+    text-align: start;
+}
+
+.box {
+    display: block;
+    background-color: rgba(204, 255, 255, 0.3);
+    border: solid 1px rgba(204, 255, 255, 0.3);
+    border-radius: 8px;
+}
+
+.box:hover {
+    box-shadow: 8px 8px 1px 0.5px rgba(224, 224, 224, 0.7);
+}
+
+.skills-header {
+    text-align: start;
+}
+
+.skills-header h1 {
+    margin-bottom: 1.5rem;
+    font-weight: 900;
+}
+
+.skills-header h6 {
+    font-weight: 800;
+}

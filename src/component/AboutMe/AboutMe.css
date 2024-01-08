@@ -1,0 +1,30 @@
+.About-header {
+    text-align: start;
+    border-right: solid 12px #5e3bee;
+}
+
+.About-header h1 {
+    margin-bottom: 1.5rem;
+    font-weight: 900;
+}
+
+.About-header h6 {
+    font-weight: 800;
+}
+
+.About-body {
+    text-align: start;
+    font-weight: 400;
+}
+
+@media (max-width:576px) {
+    .About-header {
+        background-color: none;
+        border-right: none;
+    }
+
+    .About-body ul {
+        margin-top: 40px;
+    }
+
+}

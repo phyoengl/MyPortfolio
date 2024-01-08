@@ -1,0 +1,35 @@
+.paragraph-footer {
+    text-align: start;
+    font-weight: 600;
+}
+
+.paragraph-header {
+    text-align: start;
+    font-weight: 800;
+}
+
+.paragraph-body {
+    font-weight: 900;
+}
+
+.paragraph-span {
+    color: #5e3bee;
+}
+
+.custom-btn {
+    text-decoration: none;
+    display: inline-block;
+    border: solid 1px #5e3bee;
+    border-radius: 5px;
+    color: white;
+    padding: 3px 20px;
+    background-color: #5e3bee;
+    margin-right: auto;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.custom-btn:hover {
+    background-color: white;
+    color: #5e3bee;
+}
