@@ -49,7 +49,7 @@ function NavItem({ pages }) {
 
 function NavLogo({ name, icon }) {
     
-    return <a href={name}>
+    return <a href={"#"+name}>
         <h1 className="h4 py-3 text-center text-primary">
             <FontAwesomeIcon icon={icon} className='me-2' />
             <span className="Navlogo d-none d-lg-inline">Ghost</span>
