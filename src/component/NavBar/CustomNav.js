@@ -36,7 +36,7 @@ function NavItem({ pages }) {
 
     return <ul className='nav justify-content-end'>
         {pages.map((item, key) =>
-            <li className='nav-item'
+            <li className='custom-hover nav-item'
                 key={key}>
                 <a className='nav-link'
                     href={"#" + item}>
